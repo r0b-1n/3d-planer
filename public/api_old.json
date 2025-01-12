@@ -1,0 +1,3158 @@
+{
+    "status": "success",
+    "laengemm": 4312,
+    "laengeachse": "x",
+    "breitemm": 612,
+    "breiteachse": "y",
+    "settings": {
+      "db": {},
+      "dbType": "mysql",
+      "id": 571859,
+      "terrassenId": 571859,
+      "terrassencode": "6keh9w",
+      "zuletztaktualisiert": "2025-01-11 20:10:55",
+      "zuletztaktuallisiert": "2025-01-11 20:10:55",
+      "expertModus": 1,
+      "form": "rechteck",
+      "groesse": {
+        "rechteck_mass_1": 4.312,
+        "rechteck_mass_2": 0.612
+      },
+      "festeBauteile": [
+        "links"
+      ],
+      "dielenid": 14,
+      "dielenfarbenid": 6,
+      "dielenseite": 1,
+      "verband": 1,
+      "deckaufbau": 1,
+      "uk": "variofix1",
+      "ukAufbau": 1,
+      "aufbauHoehe": 40,
+      "klammer": "fixstep2016",
+      "untergrund": 1,
+      "rechteckGedreht": 1,
+      "profil": "bronze",
+      "proVersion": 0,
+      "randabschluss": 1,
+      "marktShort": "",
+      "language": "de",
+      "optimiert": true,
+      "sonstiges": {
+        "abz": false,
+        "winkel": 180,
+        "verlegerichtungTypManuell": 0,
+        "gefaelleSollProzent": 2,
+        "tueren": [],
+        "nullPunkte": [
+          1,
+          2
+        ],
+        "gefaelleGedreht": false,
+        "gefaelleRichtung": 180,
+        "mainSlider": 101,
+        "balken": "4060",
+        "ausgewaehlteLaengen": [
+          6,
+          5.4,
+          4.8,
+          4.2,
+          3.6
+        ],
+        "alternativeDielenLaengen": false,
+        "dielenAlternativeWerte": {}
+      },
+      "sicherungsband": 1,
+      "kommissionierungsRegel": false,
+      "nurKurzeDielen": false,
+      "megalite": {
+        "innen": [],
+        "spotMin": [],
+        "spotMax": []
+      },
+      "megaliteInnen": [],
+      "megaliteSpotMin": [],
+      "megaliteSpotMax": [],
+      "lueftungsgitter": {
+        "innen": []
+      },
+      "lueftungsgitterInnen": [],
+      "dielenLaengenAlternativeWerte": false,
+      "dielenBreiteAlternativeWerte": false,
+      "dielenFugeAlternativeWerte": false,
+      "maxAbstandAufnahmenAlternativeWerte": false,
+      "maxAbstandBalkenAlternativeWerte": false,
+      "konstruktionsbalken": "4060",
+      "standarddiele": 1,
+      "dielenlaenge": 4.8,
+      "dielendetails": {
+        "id": 14,
+        "bezeichnung": "Barfußdiele SIGNUM",
+        "ist_diele": 1,
+        "breite": 145,
+        "hoehe": 21,
+        "ist_premium_plus": false,
+        "position": 7,
+        "fuer_ed": 0,
+        "fuer_aw": 0,
+        "gkbrett": 50,
+        "artikelnummer": "PS001-480FE",
+        "farbe": "Muskat",
+        "zusatzinfos": "145 x 21 x 4800 mm, Muskat",
+        "formel": "round((b/dl)+0.499) x round( (cd/(db+dlfuge))+0.5 )",
+        "artikelnummer_org": "PS001-300-600FE"
+      },
+      "verlegeartid": 1,
+      "verlegetypid": 1,
+      "gebaeudeTiefe": 3000,
+      "dielenumgedreht": false,
+      "deckgeschlossen": false,
+      "deckebenerdig": false,
+      "doppHoehe": false,
+      "dielenfuge": 4,
+      "dielenkopffuge": 8,
+      "debugMode": false,
+      "laengsGeschnitteneDielen": false,
+      "schnittBreiteDielen": 5,
+      "schnittToleranz": true,
+      "fBLBStart": "oben",
+      "breite": 612,
+      "laenge": 4312,
+      "breiteNetto": 612,
+      "laengeNetto": 4312,
+      "offsetLaengeAnfang": 0,
+      "offsetLaengeEnde": 0,
+      "offsetBreiteAnfang": 0,
+      "offsetBreiteEnde": 0,
+      "megaliteRand": {},
+      "lueftungsgitterRand": {},
+      "verschraubenLL": false,
+      "appInfos": {
+        "form": "Rechteckig",
+        "deckaufbau": "offenes Deck, aufgesetzt",
+        "dielen": "145 mm Signum",
+        "uk": "",
+        "dielenfarbe": "Muskat",
+        "klammern": "Rastklammer",
+        "verband": "ohne",
+        "flaeche": "2,638944 qm"
+      },
+      "resteOptimierung": false,
+      "dielenschwerpunktberechnung": true,
+      "dielenschwerpunktberechnungToleranz": 1.2,
+      "dielenSchnittMehrfach": true,
+      "fuerVerschnitt": {
+        "prozentReste": 10.166666666666666,
+        "lfmReste": 1.952,
+        "lfm": 19.2,
+        "anzahl": 4,
+        "dielen": {
+          "4.8": {
+            "laengeDiele": "4.8",
+            "prozentReste": 10.166666666666666,
+            "lfmReste": 1.952,
+            "lfm": 19.2,
+            "anzahl": 4
+          }
+        }
+      }
+    },
+    "zuletztaktuallisiert": "2025-01-11 20:10:55",
+    "flaeche": 2638944,
+    "pixelProMm": 1,
+    "basisflaechemittelpunkt": {
+      "x": 2156,
+      "y": 306,
+      "z": 0
+    },
+    "gebaeude": [
+      {
+        "breite": 3112,
+        "laenge": 3000,
+        "mittelpunkt": {
+          "y": 306,
+          "x": -1523,
+          "z": 0
+        }
+      }
+    ],
+    "betonquader": [],
+    "rasenquader": [],
+    "betonkante": [
+      {
+        "breite": 1812,
+        "laenge": 100,
+        "hoehe": 1,
+        "mittelpunkt": {
+          "y": 306,
+          "x": 4862,
+          "z": 0
+        }
+      },
+      {
+        "breite": 100,
+        "laenge": 4835,
+        "hoehe": 1,
+        "mittelpunkt": {
+          "y": -550,
+          "x": 2394.5,
+          "z": 0
+        }
+      },
+      {
+        "breite": 100,
+        "laenge": 4835,
+        "hoehe": 1,
+        "mittelpunkt": {
+          "y": 1162,
+          "x": 2394.5,
+          "z": 0
+        }
+      }
+    ],
+    "boden": [
+      {
+        "breite": 1612,
+        "laenge": 4835,
+        "mittelpunkt": {
+          "y": 306,
+          "x": 2394.5,
+          "z": 0
+        }
+      }
+    ],
+    "kamera": {
+      "y": 306,
+      "x": 2156,
+      "z": 0
+    },
+    "marker": {
+      "x": -10,
+      "y": 306,
+      "z": 101,
+      "drehung": 0
+    },
+    "einstellungen": {
+      "dielenbreite": 144,
+      "dielenlaenge": 4800,
+      "dielenfuge": 4,
+      "dielenkopffuge": 8,
+      "b": 4312,
+      "buk": 3842,
+      "bp": 3822,
+      "c": 612,
+      "cd": 588,
+      "cdd": 588,
+      "cuk": 262,
+      "cp": 352,
+      "crest": 612,
+      "abstandbwave": 382,
+      "abstandb": 478,
+      "abstandc": 352,
+      "cverschnitt": 389
+    },
+    "terrassenid": "6keh9w",
+    "elemente": [
+      {
+        "name": "VARIO FIX I (komplett)",
+        "artikelnummer": "MWVFUK100000SW-40",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 74,
+          "y": 188,
+          "z": 0
+        },
+        "istUkPlatte": true,
+        "laenge": 148,
+        "breite": 295
+      },
+      {
+        "name": "VARIO FIX I (komplett)",
+        "artikelnummer": "MWVFUK100000SW-40",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 254,
+          "y": 188,
+          "z": 0
+        },
+        "istUkPlatte": true,
+        "laenge": 148,
+        "breite": 295
+      },
+      {
+        "name": "VARIO FIX I (komplett)",
+        "artikelnummer": "MWVFUK100000SW-40",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 74,
+          "y": 483,
+          "z": 0
+        },
+        "istUkPlatte": true,
+        "laenge": 148,
+        "breite": 295
+      },
+      {
+        "name": "VARIO FIX I (komplett)",
+        "artikelnummer": "MWVFUK100000SW-40",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 254,
+          "y": 483,
+          "z": 0
+        },
+        "istUkPlatte": true,
+        "laenge": 148,
+        "breite": 295
+      },
+      {
+        "name": "VARIO FIX I (komplett)",
+        "artikelnummer": "MWVFUK100000SW-40",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 729,
+          "y": 188,
+          "z": 0
+        },
+        "istUkPlatte": true,
+        "laenge": 148,
+        "breite": 295
+      },
+      {
+        "name": "VARIO FIX I (komplett)",
+        "artikelnummer": "MWVFUK100000SW-40",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 729,
+          "y": 483,
+          "z": 0
+        },
+        "istUkPlatte": true,
+        "laenge": 148,
+        "breite": 295
+      },
+      {
+        "name": "VARIO FIX I (komplett)",
+        "artikelnummer": "MWVFUK100000SW-40",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 1205,
+          "y": 188,
+          "z": 0
+        },
+        "istUkPlatte": true,
+        "laenge": 148,
+        "breite": 295
+      },
+      {
+        "name": "VARIO FIX I (komplett)",
+        "artikelnummer": "MWVFUK100000SW-40",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 1205,
+          "y": 483,
+          "z": 0
+        },
+        "istUkPlatte": true,
+        "laenge": 148,
+        "breite": 295
+      },
+      {
+        "name": "VARIO FIX I (komplett)",
+        "artikelnummer": "MWVFUK100000SW-40",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 1680,
+          "y": 188,
+          "z": 0
+        },
+        "istUkPlatte": true,
+        "laenge": 148,
+        "breite": 295
+      },
+      {
+        "name": "VARIO FIX I (komplett)",
+        "artikelnummer": "MWVFUK100000SW-40",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 1680,
+          "y": 483,
+          "z": 0
+        },
+        "istUkPlatte": true,
+        "laenge": 148,
+        "breite": 295
+      },
+      {
+        "name": "VARIO FIX I (komplett)",
+        "artikelnummer": "MWVFUK100000SW-40",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 2156,
+          "y": 188,
+          "z": 0
+        },
+        "istUkPlatte": true,
+        "laenge": 148,
+        "breite": 295
+      },
+      {
+        "name": "VARIO FIX I (komplett)",
+        "artikelnummer": "MWVFUK100000SW-40",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 2156,
+          "y": 483,
+          "z": 0
+        },
+        "istUkPlatte": true,
+        "laenge": 148,
+        "breite": 295
+      },
+      {
+        "name": "VARIO FIX I (komplett)",
+        "artikelnummer": "MWVFUK100000SW-40",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 2631,
+          "y": 188,
+          "z": 0
+        },
+        "istUkPlatte": true,
+        "laenge": 148,
+        "breite": 295
+      },
+      {
+        "name": "VARIO FIX I (komplett)",
+        "artikelnummer": "MWVFUK100000SW-40",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 2631,
+          "y": 483,
+          "z": 0
+        },
+        "istUkPlatte": true,
+        "laenge": 148,
+        "breite": 295
+      },
+      {
+        "name": "VARIO FIX I (komplett)",
+        "artikelnummer": "MWVFUK100000SW-40",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 2927,
+          "y": 188,
+          "z": 0
+        },
+        "istUkPlatte": true,
+        "laenge": 148,
+        "breite": 295
+      },
+      {
+        "name": "VARIO FIX I (komplett)",
+        "artikelnummer": "MWVFUK100000SW-40",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 3107,
+          "y": 188,
+          "z": 0
+        },
+        "istUkPlatte": true,
+        "laenge": 148,
+        "breite": 295
+      },
+      {
+        "name": "VARIO FIX I (komplett)",
+        "artikelnummer": "MWVFUK100000SW-40",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 2927,
+          "y": 483,
+          "z": 0
+        },
+        "istUkPlatte": true,
+        "laenge": 148,
+        "breite": 295
+      },
+      {
+        "name": "VARIO FIX I (komplett)",
+        "artikelnummer": "MWVFUK100000SW-40",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 3107,
+          "y": 483,
+          "z": 0
+        },
+        "istUkPlatte": true,
+        "laenge": 148,
+        "breite": 295
+      },
+      {
+        "name": "VARIO FIX I (komplett)",
+        "artikelnummer": "MWVFUK100000SW-40",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 3582,
+          "y": 188,
+          "z": 0
+        },
+        "istUkPlatte": true,
+        "laenge": 148,
+        "breite": 295
+      },
+      {
+        "name": "VARIO FIX I (komplett)",
+        "artikelnummer": "MWVFUK100000SW-40",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 3582,
+          "y": 483,
+          "z": 0
+        },
+        "istUkPlatte": true,
+        "laenge": 148,
+        "breite": 295
+      },
+      {
+        "name": "VARIO FIX I (komplett)",
+        "artikelnummer": "MWVFUK100000SW-40",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 4058,
+          "y": 228,
+          "z": 0
+        },
+        "istUkPlatte": true,
+        "laenge": 148,
+        "breite": 295
+      },
+      {
+        "name": "VARIO FIX I (komplett)",
+        "artikelnummer": "MWVFUK100000SW-40",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 4238,
+          "y": 228,
+          "z": 0
+        },
+        "istUkPlatte": true,
+        "laenge": 148,
+        "breite": 295
+      },
+      {
+        "name": "VARIO FIX I (komplett)",
+        "artikelnummer": "MWVFUK100000SW-40",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 4058,
+          "y": 523,
+          "z": 0
+        },
+        "istUkPlatte": true,
+        "laenge": 148,
+        "breite": 295
+      },
+      {
+        "name": "VARIO FIX I (komplett)",
+        "artikelnummer": "MWVFUK100000SW-40",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 4238,
+          "y": 523,
+          "z": 0
+        },
+        "istUkPlatte": true,
+        "laenge": 148,
+        "breite": 295
+      },
+      {
+        "name": "Konstruktionsbalken",
+        "artikelnummer": "NOVO004-360FE",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 74,
+          "y": 306,
+          "z": 40
+        },
+        "laenge": 612,
+        "breite": 60,
+        "istNormalerUkBalken": true
+      },
+      {
+        "name": "Konstruktionsbalken",
+        "artikelnummer": "NOVO004-360FE",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 254,
+          "y": 306,
+          "z": 40
+        },
+        "laenge": 612,
+        "breite": 60,
+        "istNormalerUkBalken": true
+      },
+      {
+        "name": "Konstruktionsbalken",
+        "artikelnummer": "NOVO004-360FE",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 729,
+          "y": 306,
+          "z": 40
+        },
+        "laenge": 612,
+        "breite": 60,
+        "istNormalerUkBalken": true
+      },
+      {
+        "name": "Konstruktionsbalken",
+        "artikelnummer": "NOVO004-360FE",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 1205,
+          "y": 306,
+          "z": 40
+        },
+        "laenge": 612,
+        "breite": 60,
+        "istNormalerUkBalken": true
+      },
+      {
+        "name": "Konstruktionsbalken",
+        "artikelnummer": "NOVO004-360FE",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 1680,
+          "y": 306,
+          "z": 40
+        },
+        "laenge": 612,
+        "breite": 60,
+        "istNormalerUkBalken": true
+      },
+      {
+        "name": "Konstruktionsbalken",
+        "artikelnummer": "NOVO004-360FE",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 2156,
+          "y": 306,
+          "z": 40
+        },
+        "laenge": 612,
+        "breite": 60,
+        "istNormalerUkBalken": true
+      },
+      {
+        "name": "Konstruktionsbalken",
+        "artikelnummer": "NOVO004-360FE",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 2631,
+          "y": 306,
+          "z": 40
+        },
+        "laenge": 612,
+        "breite": 60,
+        "istNormalerUkBalken": true
+      },
+      {
+        "name": "Konstruktionsbalken",
+        "artikelnummer": "NOVO004-360FE",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 2927,
+          "y": 250,
+          "z": 40
+        },
+        "laenge": 500,
+        "breite": 60,
+        "istNormalerUkBalken": true
+      },
+      {
+        "name": "Konstruktionsbalken",
+        "artikelnummer": "NOVO004-360FE",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 2927,
+          "y": 362,
+          "z": 40
+        },
+        "laenge": 500,
+        "breite": 60,
+        "istNormalerUkBalken": true
+      },
+      {
+        "name": "Konstruktionsbalken",
+        "artikelnummer": "NOVO004-360FE",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 3107,
+          "y": 306,
+          "z": 40
+        },
+        "laenge": 612,
+        "breite": 60,
+        "istNormalerUkBalken": true
+      },
+      {
+        "name": "Konstruktionsbalken",
+        "artikelnummer": "NOVO004-360FE",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 3582,
+          "y": 306,
+          "z": 40
+        },
+        "laenge": 612,
+        "breite": 60,
+        "istNormalerUkBalken": true
+      },
+      {
+        "name": "Konstruktionsbalken",
+        "artikelnummer": "NOVO004-360FE",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 4058,
+          "y": 306,
+          "z": 40
+        },
+        "laenge": 612,
+        "breite": 60,
+        "istNormalerUkBalken": true
+      },
+      {
+        "name": "Konstruktionsbalken",
+        "artikelnummer": "NOVO004-360FE",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 4238,
+          "y": 306,
+          "z": 40
+        },
+        "laenge": 612,
+        "breite": 60,
+        "istNormalerUkBalken": true
+      },
+      {
+        "name": "Konstruktionsbälkchen UK4060",
+        "artikelnummer": "NOVO017-08KB-VF",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 74,
+          "y": 40,
+          "z": 25
+        },
+        "laenge": 30,
+        "istBalkenStueck": true
+      },
+      {
+        "name": "Befestigungsschraube M8 x 80 (für Balken)",
+        "artikelnummer": "NOVO017-22-90",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 74,
+          "y": 20,
+          "z": 80
+        }
+      },
+      {
+        "name": "Konstruktionsbälkchen UK4060",
+        "artikelnummer": "NOVO017-08KB-VF",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 254,
+          "y": 40,
+          "z": 25
+        },
+        "laenge": 30,
+        "istBalkenStueck": true
+      },
+      {
+        "name": "Befestigungsschraube M8 x 80 (für Balken)",
+        "artikelnummer": "NOVO017-22-90",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 254,
+          "y": 20,
+          "z": 80
+        }
+      },
+      {
+        "name": "Konstruktionsbälkchen UK4060",
+        "artikelnummer": "NOVO017-08KB-VF",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 729,
+          "y": 40,
+          "z": 25
+        },
+        "laenge": 30,
+        "istBalkenStueck": true
+      },
+      {
+        "name": "Befestigungsschraube M8 x 80 (für Balken)",
+        "artikelnummer": "NOVO017-22-90",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 729,
+          "y": 20,
+          "z": 80
+        }
+      },
+      {
+        "name": "Konstruktionsbälkchen UK4060",
+        "artikelnummer": "NOVO017-08KB-VF",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 1205,
+          "y": 40,
+          "z": 25
+        },
+        "laenge": 30,
+        "istBalkenStueck": true
+      },
+      {
+        "name": "Befestigungsschraube M8 x 80 (für Balken)",
+        "artikelnummer": "NOVO017-22-90",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 1205,
+          "y": 20,
+          "z": 80
+        }
+      },
+      {
+        "name": "Konstruktionsbälkchen UK4060",
+        "artikelnummer": "NOVO017-08KB-VF",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 1680,
+          "y": 40,
+          "z": 25
+        },
+        "laenge": 30,
+        "istBalkenStueck": true
+      },
+      {
+        "name": "Befestigungsschraube M8 x 80 (für Balken)",
+        "artikelnummer": "NOVO017-22-90",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 1680,
+          "y": 20,
+          "z": 80
+        }
+      },
+      {
+        "name": "Konstruktionsbälkchen UK4060",
+        "artikelnummer": "NOVO017-08KB-VF",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 2156,
+          "y": 40,
+          "z": 25
+        },
+        "laenge": 30,
+        "istBalkenStueck": true
+      },
+      {
+        "name": "Befestigungsschraube M8 x 80 (für Balken)",
+        "artikelnummer": "NOVO017-22-90",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 2156,
+          "y": 20,
+          "z": 80
+        }
+      },
+      {
+        "name": "Konstruktionsbälkchen UK4060",
+        "artikelnummer": "NOVO017-08KB-VF",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 2631,
+          "y": 40,
+          "z": 25
+        },
+        "laenge": 30,
+        "istBalkenStueck": true
+      },
+      {
+        "name": "Befestigungsschraube M8 x 80 (für Balken)",
+        "artikelnummer": "NOVO017-22-90",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 2631,
+          "y": 20,
+          "z": 80
+        }
+      },
+      {
+        "name": "Konstruktionsbälkchen UK4060",
+        "artikelnummer": "NOVO017-08KB-VF",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 2927,
+          "y": 40,
+          "z": 25
+        },
+        "laenge": 30,
+        "istBalkenStueck": true
+      },
+      {
+        "name": "Befestigungsschraube M8 x 80 (für Balken)",
+        "artikelnummer": "NOVO017-22-90",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 2927,
+          "y": 20,
+          "z": 80
+        }
+      },
+      {
+        "name": "Konstruktionsbälkchen UK4060",
+        "artikelnummer": "NOVO017-08KB-VF",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 3107,
+          "y": 40,
+          "z": 25
+        },
+        "laenge": 30,
+        "istBalkenStueck": true
+      },
+      {
+        "name": "Befestigungsschraube M8 x 80 (für Balken)",
+        "artikelnummer": "NOVO017-22-90",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 3107,
+          "y": 20,
+          "z": 80
+        }
+      },
+      {
+        "name": "Konstruktionsbälkchen UK4060",
+        "artikelnummer": "NOVO017-08KB-VF",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 3582,
+          "y": 40,
+          "z": 25
+        },
+        "laenge": 30,
+        "istBalkenStueck": true
+      },
+      {
+        "name": "Befestigungsschraube M8 x 80 (für Balken)",
+        "artikelnummer": "NOVO017-22-90",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 3582,
+          "y": 20,
+          "z": 80
+        }
+      },
+      {
+        "name": "Konstruktionsbälkchen UK4060",
+        "artikelnummer": "NOVO017-08KB-VF",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 4058,
+          "y": 40,
+          "z": 25
+        },
+        "laenge": 30,
+        "istBalkenStueck": true
+      },
+      {
+        "name": "Befestigungsschraube M8 x 80 (für Balken)",
+        "artikelnummer": "NOVO017-22-90",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 4058,
+          "y": 20,
+          "z": 80
+        }
+      },
+      {
+        "name": "Konstruktionsbälkchen UK4060",
+        "artikelnummer": "NOVO017-08KB-VF",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 4241,
+          "y": 40,
+          "z": 25
+        },
+        "laenge": 30,
+        "istBalkenStueck": true,
+        "istVerschoben": true
+      },
+      {
+        "name": "Befestigungsschraube M8 x 80 (für Balken)",
+        "artikelnummer": "NOVO017-22-90",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 4238,
+          "y": 20,
+          "z": 80
+        }
+      },
+      {
+        "name": "Konstruktionsholz Rhombus Varia Braun",
+        "artikelnummer": "MWRP021081VB420-90",
+        "drehung": 90,
+        "mittelpunkt": {
+          "x": 4281.25,
+          "y": -0.5,
+          "z": 41.25
+        },
+        "laenge": 62.5,
+        "istGkbrettStueck": true
+      },
+      {
+        "name": "Befestigungsschraube M8 x 80 (für Glattkantbrett)",
+        "artikelnummer": "NOVO017-22",
+        "drehung": 90,
+        "mittelpunkt": {
+          "x": 4291.5,
+          "y": 20,
+          "z": 20
+        }
+      },
+      {
+        "name": "Konstruktionsholz Rhombus Varia Braun",
+        "artikelnummer": "MWRP021081VB420-90",
+        "drehung": 90,
+        "mittelpunkt": {
+          "x": 4281.25,
+          "y": 531.5,
+          "z": 41.25
+        },
+        "laenge": 62.5,
+        "istGkbrettStueck": true
+      },
+      {
+        "name": "Befestigungsschraube M8 x 80 (für Glattkantbrett)",
+        "artikelnummer": "NOVO017-22",
+        "drehung": 90,
+        "mittelpunkt": {
+          "x": 4291.5,
+          "y": 592,
+          "z": 20
+        }
+      },
+      {
+        "name": "Konstruktionsbälkchen UK4060",
+        "artikelnummer": "NOVO017-08KB-VF",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 74,
+          "y": 612,
+          "z": 25
+        },
+        "laenge": 30,
+        "istBalkenStueck": true
+      },
+      {
+        "name": "Befestigungsschraube M8 x 80 (für Balken)",
+        "artikelnummer": "NOVO017-22-90",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 74,
+          "y": 592,
+          "z": 80
+        }
+      },
+      {
+        "name": "Konstruktionsbälkchen UK4060",
+        "artikelnummer": "NOVO017-08KB-VF",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 254,
+          "y": 612,
+          "z": 25
+        },
+        "laenge": 30,
+        "istBalkenStueck": true
+      },
+      {
+        "name": "Befestigungsschraube M8 x 80 (für Balken)",
+        "artikelnummer": "NOVO017-22-90",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 254,
+          "y": 592,
+          "z": 80
+        }
+      },
+      {
+        "name": "Konstruktionsbälkchen UK4060",
+        "artikelnummer": "NOVO017-08KB-VF",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 729,
+          "y": 612,
+          "z": 25
+        },
+        "laenge": 30,
+        "istBalkenStueck": true
+      },
+      {
+        "name": "Befestigungsschraube M8 x 80 (für Balken)",
+        "artikelnummer": "NOVO017-22-90",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 729,
+          "y": 592,
+          "z": 80
+        }
+      },
+      {
+        "name": "Konstruktionsbälkchen UK4060",
+        "artikelnummer": "NOVO017-08KB-VF",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 1205,
+          "y": 612,
+          "z": 25
+        },
+        "laenge": 30,
+        "istBalkenStueck": true
+      },
+      {
+        "name": "Befestigungsschraube M8 x 80 (für Balken)",
+        "artikelnummer": "NOVO017-22-90",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 1205,
+          "y": 592,
+          "z": 80
+        }
+      },
+      {
+        "name": "Konstruktionsbälkchen UK4060",
+        "artikelnummer": "NOVO017-08KB-VF",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 1680,
+          "y": 612,
+          "z": 25
+        },
+        "laenge": 30,
+        "istBalkenStueck": true
+      },
+      {
+        "name": "Befestigungsschraube M8 x 80 (für Balken)",
+        "artikelnummer": "NOVO017-22-90",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 1680,
+          "y": 592,
+          "z": 80
+        }
+      },
+      {
+        "name": "Konstruktionsbälkchen UK4060",
+        "artikelnummer": "NOVO017-08KB-VF",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 2156,
+          "y": 612,
+          "z": 25
+        },
+        "laenge": 30,
+        "istBalkenStueck": true
+      },
+      {
+        "name": "Befestigungsschraube M8 x 80 (für Balken)",
+        "artikelnummer": "NOVO017-22-90",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 2156,
+          "y": 592,
+          "z": 80
+        }
+      },
+      {
+        "name": "Konstruktionsbälkchen UK4060",
+        "artikelnummer": "NOVO017-08KB-VF",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 2631,
+          "y": 612,
+          "z": 25
+        },
+        "laenge": 30,
+        "istBalkenStueck": true
+      },
+      {
+        "name": "Befestigungsschraube M8 x 80 (für Balken)",
+        "artikelnummer": "NOVO017-22-90",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 2631,
+          "y": 592,
+          "z": 80
+        }
+      },
+      {
+        "name": "Konstruktionsbälkchen UK4060",
+        "artikelnummer": "NOVO017-08KB-VF",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 2927,
+          "y": 612,
+          "z": 25
+        },
+        "laenge": 30,
+        "istBalkenStueck": true
+      },
+      {
+        "name": "Befestigungsschraube M8 x 80 (für Balken)",
+        "artikelnummer": "NOVO017-22-90",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 2927,
+          "y": 592,
+          "z": 80
+        }
+      },
+      {
+        "name": "Konstruktionsbälkchen UK4060",
+        "artikelnummer": "NOVO017-08KB-VF",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 3107,
+          "y": 612,
+          "z": 25
+        },
+        "laenge": 30,
+        "istBalkenStueck": true
+      },
+      {
+        "name": "Befestigungsschraube M8 x 80 (für Balken)",
+        "artikelnummer": "NOVO017-22-90",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 3107,
+          "y": 592,
+          "z": 80
+        }
+      },
+      {
+        "name": "Konstruktionsbälkchen UK4060",
+        "artikelnummer": "NOVO017-08KB-VF",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 3582,
+          "y": 612,
+          "z": 25
+        },
+        "laenge": 30,
+        "istBalkenStueck": true
+      },
+      {
+        "name": "Befestigungsschraube M8 x 80 (für Balken)",
+        "artikelnummer": "NOVO017-22-90",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 3582,
+          "y": 592,
+          "z": 80
+        }
+      },
+      {
+        "name": "Konstruktionsbälkchen UK4060",
+        "artikelnummer": "NOVO017-08KB-VF",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 4058,
+          "y": 612,
+          "z": 25
+        },
+        "laenge": 30,
+        "istBalkenStueck": true
+      },
+      {
+        "name": "Befestigungsschraube M8 x 80 (für Balken)",
+        "artikelnummer": "NOVO017-22-90",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 4058,
+          "y": 592,
+          "z": 80
+        }
+      },
+      {
+        "name": "Konstruktionsbälkchen UK4060",
+        "artikelnummer": "NOVO017-08KB-VF",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 4241,
+          "y": 612,
+          "z": 25
+        },
+        "laenge": 30,
+        "istBalkenStueck": true,
+        "istVerschoben": true
+      },
+      {
+        "name": "Befestigungsschraube M8 x 80 (für Balken)",
+        "artikelnummer": "NOVO017-22-90",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 4238,
+          "y": 592,
+          "z": 80
+        }
+      },
+      {
+        "name": "Montageschuh + Schrauben (für Rispenband)",
+        "artikelnummer": "NOVO017-08RB",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 254,
+          "y": 238,
+          "z": 40
+        }
+      },
+      {
+        "name": "Montageschuh + Schrauben (für Rispenband)",
+        "artikelnummer": "NOVO017-08RB",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 729,
+          "y": 433,
+          "z": 40
+        }
+      },
+      {
+        "name": "Montageschuh + Schrauben (für Rispenband)",
+        "artikelnummer": "NOVO017-08RB",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 254,
+          "y": 433,
+          "z": 40
+        }
+      },
+      {
+        "name": "Montageschuh + Schrauben (für Rispenband)",
+        "artikelnummer": "NOVO017-08RB",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 729,
+          "y": 238,
+          "z": 40
+        }
+      },
+      {
+        "name": "Montageschuh + Schrauben (für Rispenband)",
+        "artikelnummer": "NOVO017-08RB",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 729,
+          "y": 278,
+          "z": 40
+        }
+      },
+      {
+        "name": "Montageschuh + Schrauben (für Rispenband)",
+        "artikelnummer": "NOVO017-08RB",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 1205,
+          "y": 433,
+          "z": 40
+        }
+      },
+      {
+        "name": "Montageschuh + Schrauben (für Rispenband)",
+        "artikelnummer": "NOVO017-08RB",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 729,
+          "y": 393,
+          "z": 40
+        }
+      },
+      {
+        "name": "Montageschuh + Schrauben (für Rispenband)",
+        "artikelnummer": "NOVO017-08RB",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 1205,
+          "y": 238,
+          "z": 40
+        }
+      },
+      {
+        "name": "Montageschuh + Schrauben (für Rispenband)",
+        "artikelnummer": "NOVO017-08RB",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 1205,
+          "y": 278,
+          "z": 40
+        }
+      },
+      {
+        "name": "Montageschuh + Schrauben (für Rispenband)",
+        "artikelnummer": "NOVO017-08RB",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 1680,
+          "y": 433,
+          "z": 40
+        }
+      },
+      {
+        "name": "Montageschuh + Schrauben (für Rispenband)",
+        "artikelnummer": "NOVO017-08RB",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 1205,
+          "y": 393,
+          "z": 40
+        }
+      },
+      {
+        "name": "Montageschuh + Schrauben (für Rispenband)",
+        "artikelnummer": "NOVO017-08RB",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 1680,
+          "y": 238,
+          "z": 40
+        }
+      },
+      {
+        "name": "Montageschuh + Schrauben (für Rispenband)",
+        "artikelnummer": "NOVO017-08RB",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 1680,
+          "y": 278,
+          "z": 40
+        }
+      },
+      {
+        "name": "Montageschuh + Schrauben (für Rispenband)",
+        "artikelnummer": "NOVO017-08RB",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 2156,
+          "y": 433,
+          "z": 40
+        }
+      },
+      {
+        "name": "Montageschuh + Schrauben (für Rispenband)",
+        "artikelnummer": "NOVO017-08RB",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 1680,
+          "y": 393,
+          "z": 40
+        }
+      },
+      {
+        "name": "Montageschuh + Schrauben (für Rispenband)",
+        "artikelnummer": "NOVO017-08RB",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 2156,
+          "y": 238,
+          "z": 40
+        }
+      },
+      {
+        "name": "Montageschuh + Schrauben (für Rispenband)",
+        "artikelnummer": "NOVO017-08RB",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 2156,
+          "y": 278,
+          "z": 40
+        }
+      },
+      {
+        "name": "Montageschuh + Schrauben (für Rispenband)",
+        "artikelnummer": "NOVO017-08RB",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 2631,
+          "y": 433,
+          "z": 40
+        }
+      },
+      {
+        "name": "Montageschuh + Schrauben (für Rispenband)",
+        "artikelnummer": "NOVO017-08RB",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 2156,
+          "y": 393,
+          "z": 40
+        }
+      },
+      {
+        "name": "Montageschuh + Schrauben (für Rispenband)",
+        "artikelnummer": "NOVO017-08RB",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 2631,
+          "y": 238,
+          "z": 40
+        }
+      },
+      {
+        "name": "Montageschuh + Schrauben (für Rispenband)",
+        "artikelnummer": "NOVO017-08RB",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 2631,
+          "y": 278,
+          "z": 40
+        }
+      },
+      {
+        "name": "Montageschuh + Schrauben (für Rispenband)",
+        "artikelnummer": "NOVO017-08RB",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 2927,
+          "y": 433,
+          "z": 40
+        }
+      },
+      {
+        "name": "Montageschuh + Schrauben (für Rispenband)",
+        "artikelnummer": "NOVO017-08RB",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 2631,
+          "y": 393,
+          "z": 40
+        }
+      },
+      {
+        "name": "Montageschuh + Schrauben (für Rispenband)",
+        "artikelnummer": "NOVO017-08RB",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 2927,
+          "y": 238,
+          "z": 40
+        }
+      },
+      {
+        "name": "Montageschuh + Schrauben (für Rispenband)",
+        "artikelnummer": "NOVO017-08RB",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 3107,
+          "y": 238,
+          "z": 40
+        }
+      },
+      {
+        "name": "Montageschuh + Schrauben (für Rispenband)",
+        "artikelnummer": "NOVO017-08RB",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 3582,
+          "y": 433,
+          "z": 40
+        }
+      },
+      {
+        "name": "Montageschuh + Schrauben (für Rispenband)",
+        "artikelnummer": "NOVO017-08RB",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 3107,
+          "y": 433,
+          "z": 40
+        }
+      },
+      {
+        "name": "Montageschuh + Schrauben (für Rispenband)",
+        "artikelnummer": "NOVO017-08RB",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 3582,
+          "y": 238,
+          "z": 40
+        }
+      },
+      {
+        "name": "Montageschuh + Schrauben (für Rispenband)",
+        "artikelnummer": "NOVO017-08RB",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 3582,
+          "y": 278,
+          "z": 40
+        }
+      },
+      {
+        "name": "Montageschuh + Schrauben (für Rispenband)",
+        "artikelnummer": "NOVO017-08RB",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 4058,
+          "y": 473,
+          "z": 40
+        }
+      },
+      {
+        "name": "Montageschuh + Schrauben (für Rispenband)",
+        "artikelnummer": "NOVO017-08RB",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 3582,
+          "y": 393,
+          "z": 40
+        }
+      },
+      {
+        "name": "Montageschuh + Schrauben (für Rispenband)",
+        "artikelnummer": "NOVO017-08RB",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 4058,
+          "y": 278,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rispenband",
+        "artikelnummer": "NOVO017-20",
+        "drehung": 334.23463857941465,
+        "mittelpunkt": {
+          "x": 491.5,
+          "y": 335.5,
+          "z": 40
+        },
+        "laenge": 468.59893000318215
+      },
+      {
+        "name": "Rispenband",
+        "artikelnummer": "NOVO017-20",
+        "drehung": 205.76536142058532,
+        "mittelpunkt": {
+          "x": 491.5,
+          "y": 335.5,
+          "z": 40
+        },
+        "laenge": 468.5989300031822
+      },
+      {
+        "name": "Rispenband",
+        "artikelnummer": "NOVO017-20",
+        "drehung": 339.05734945001177,
+        "mittelpunkt": {
+          "x": 967,
+          "y": 355.5,
+          "z": 40
+        },
+        "laenge": 453.64732214093056
+      },
+      {
+        "name": "Rispenband",
+        "artikelnummer": "NOVO017-20",
+        "drehung": 200.94265054998826,
+        "mittelpunkt": {
+          "x": 967,
+          "y": 315.5,
+          "z": 40
+        },
+        "laenge": 453.64732214093056
+      },
+      {
+        "name": "Rispenband",
+        "artikelnummer": "NOVO017-20",
+        "drehung": 339.0100215499629,
+        "mittelpunkt": {
+          "x": 1442.5,
+          "y": 355.5,
+          "z": 40
+        },
+        "laenge": 452.7135311034309
+      },
+      {
+        "name": "Rispenband",
+        "artikelnummer": "NOVO017-20",
+        "drehung": 200.98997845003709,
+        "mittelpunkt": {
+          "x": 1442.5,
+          "y": 315.5,
+          "z": 40
+        },
+        "laenge": 452.71353110343097
+      },
+      {
+        "name": "Rispenband",
+        "artikelnummer": "NOVO017-20",
+        "drehung": 339.05734945001177,
+        "mittelpunkt": {
+          "x": 1918,
+          "y": 355.5,
+          "z": 40
+        },
+        "laenge": 453.6473221409306
+      },
+      {
+        "name": "Rispenband",
+        "artikelnummer": "NOVO017-20",
+        "drehung": 200.94265054998826,
+        "mittelpunkt": {
+          "x": 1918,
+          "y": 315.5,
+          "z": 40
+        },
+        "laenge": 453.6473221409306
+      },
+      {
+        "name": "Rispenband",
+        "artikelnummer": "NOVO017-20",
+        "drehung": 339.0100215499629,
+        "mittelpunkt": {
+          "x": 2393.5,
+          "y": 355.5,
+          "z": 40
+        },
+        "laenge": 452.71353110343136
+      },
+      {
+        "name": "Rispenband",
+        "artikelnummer": "NOVO017-20",
+        "drehung": 200.98997845003709,
+        "mittelpunkt": {
+          "x": 2393.5,
+          "y": 315.5,
+          "z": 40
+        },
+        "laenge": 452.71353110343136
+      },
+      {
+        "name": "Rispenband",
+        "artikelnummer": "NOVO017-20",
+        "drehung": 325.4374753511181,
+        "mittelpunkt": {
+          "x": 2779,
+          "y": 355.5,
+          "z": 40
+        },
+        "laenge": 293.22152184628465
+      },
+      {
+        "name": "Rispenband",
+        "artikelnummer": "NOVO017-20",
+        "drehung": 214.5625246488819,
+        "mittelpunkt": {
+          "x": 2779,
+          "y": 315.5,
+          "z": 40
+        },
+        "laenge": 293.22152184628465
+      },
+      {
+        "name": "Rispenband",
+        "artikelnummer": "NOVO017-20",
+        "drehung": 334.23463857941465,
+        "mittelpunkt": {
+          "x": 3344.5,
+          "y": 335.5,
+          "z": 40
+        },
+        "laenge": 468.59893000318215
+      },
+      {
+        "name": "Rispenband",
+        "artikelnummer": "NOVO017-20",
+        "drehung": 205.76536142058532,
+        "mittelpunkt": {
+          "x": 3344.5,
+          "y": 335.5,
+          "z": 40
+        },
+        "laenge": 468.59893000318215
+      },
+      {
+        "name": "Rispenband",
+        "artikelnummer": "NOVO017-20",
+        "drehung": 334.2900462191887,
+        "mittelpunkt": {
+          "x": 3820,
+          "y": 375.5,
+          "z": 40
+        },
+        "laenge": 469.49972191315055
+      },
+      {
+        "name": "Rispenband",
+        "artikelnummer": "NOVO017-20",
+        "drehung": 195.85192815428695,
+        "mittelpunkt": {
+          "x": 3820,
+          "y": 335.5,
+          "z": 40
+        },
+        "laenge": 441.01068870041803
+      },
+      {
+        "name": "Hausanschlussprofil Bronze",
+        "artikelnummer": "NOVO008-402",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 0,
+          "y": 306,
+          "z": 80
+        },
+        "laenge": 588
+      },
+      {
+        "name": "Sicherungsband",
+        "artikelnummer": "NOVO015-12",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 2156,
+          "y": 306,
+          "z": 80
+        },
+        "laenge": 588,
+        "istSicherungsband": true,
+        "points": [
+          {
+            "x": 2161,
+            "y": 600
+          },
+          {
+            "x": 2161,
+            "y": 12
+          },
+          {
+            "x": 2151,
+            "y": 12
+          },
+          {
+            "x": 2151,
+            "y": 600
+          }
+        ]
+      },
+      {
+        "name": "Rastklammer-Rand",
+        "artikelnummer": "NOVO007-0120",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 74,
+          "y": 12,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer-Rand",
+        "artikelnummer": "NOVO007-0120",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 254,
+          "y": 12,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer-Rand",
+        "artikelnummer": "NOVO007-0120",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 729,
+          "y": 12,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer-Rand",
+        "artikelnummer": "NOVO007-0120",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 1205,
+          "y": 12,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer-Rand",
+        "artikelnummer": "NOVO007-0120",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 1680,
+          "y": 12,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer-Rand",
+        "artikelnummer": "NOVO007-0120",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 2156,
+          "y": 12,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer-Rand",
+        "artikelnummer": "NOVO007-0120",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 2631,
+          "y": 12,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer-Rand",
+        "artikelnummer": "NOVO007-0120",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 2927,
+          "y": 12,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer-Rand",
+        "artikelnummer": "NOVO007-0120",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 3107,
+          "y": 12,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer-Rand",
+        "artikelnummer": "NOVO007-0120",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 3582,
+          "y": 12,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer-Rand",
+        "artikelnummer": "NOVO007-0120",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 4058,
+          "y": 12,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer-Rand",
+        "artikelnummer": "NOVO007-0120",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 4238,
+          "y": 12,
+          "z": 40
+        }
+      },
+      {
+        "name": "Barfußdiele SIGNUM Muskat",
+        "artikelnummer": "PS001-300-600FE",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 2156,
+          "y": 84,
+          "z": 80
+        },
+        "laenge": 4312,
+        "umgedreht": false,
+        "istDiele": true,
+        "dielenReihe": 0,
+        "koordsOrg": [
+          {
+            "x": 0,
+            "y": 12
+          },
+          {
+            "x": 0,
+            "y": 156
+          },
+          {
+            "x": 4312,
+            "y": 156
+          },
+          {
+            "x": 4312,
+            "y": 12
+          }
+        ],
+        "koords": [
+          {
+            "x": 12,
+            "y": 4312
+          },
+          {
+            "x": 156,
+            "y": 4312
+          },
+          {
+            "x": 156,
+            "y": 0
+          },
+          {
+            "x": 12,
+            "y": 0
+          }
+        ],
+        "laengsGeschnitten": false
+      },
+      {
+        "name": "Rastklammer",
+        "artikelnummer": "NOVO007-0110",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 74,
+          "y": 158,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer",
+        "artikelnummer": "NOVO007-0110",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 254,
+          "y": 158,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer",
+        "artikelnummer": "NOVO007-0110",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 729,
+          "y": 158,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer",
+        "artikelnummer": "NOVO007-0110",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 1205,
+          "y": 158,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer",
+        "artikelnummer": "NOVO007-0110",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 1680,
+          "y": 158,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer",
+        "artikelnummer": "NOVO007-0110",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 2156,
+          "y": 158,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer",
+        "artikelnummer": "NOVO007-0110",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 2631,
+          "y": 158,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer",
+        "artikelnummer": "NOVO007-0110",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 2927,
+          "y": 158,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer",
+        "artikelnummer": "NOVO007-0110",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 3107,
+          "y": 158,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer",
+        "artikelnummer": "NOVO007-0110",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 3582,
+          "y": 158,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer",
+        "artikelnummer": "NOVO007-0110",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 4058,
+          "y": 158,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer",
+        "artikelnummer": "NOVO007-0110",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 4238,
+          "y": 158,
+          "z": 40
+        }
+      },
+      {
+        "name": "Barfußdiele SIGNUM Muskat",
+        "artikelnummer": "PS001-300-600FE",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 2156,
+          "y": 232,
+          "z": 80
+        },
+        "laenge": 4312,
+        "umgedreht": false,
+        "istDiele": true,
+        "dielenReihe": 1,
+        "koordsOrg": [
+          {
+            "x": 0,
+            "y": 160
+          },
+          {
+            "x": 0,
+            "y": 304
+          },
+          {
+            "x": 4312,
+            "y": 304
+          },
+          {
+            "x": 4312,
+            "y": 160
+          }
+        ],
+        "koords": [
+          {
+            "x": 160,
+            "y": 4312
+          },
+          {
+            "x": 304,
+            "y": 4312
+          },
+          {
+            "x": 304,
+            "y": 0
+          },
+          {
+            "x": 160,
+            "y": 0
+          }
+        ],
+        "laengsGeschnitten": false
+      },
+      {
+        "name": "Rastklammer",
+        "artikelnummer": "NOVO007-0110",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 74,
+          "y": 306,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer",
+        "artikelnummer": "NOVO007-0110",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 254,
+          "y": 306,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer",
+        "artikelnummer": "NOVO007-0110",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 729,
+          "y": 306,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer",
+        "artikelnummer": "NOVO007-0110",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 1205,
+          "y": 306,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer",
+        "artikelnummer": "NOVO007-0110",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 1680,
+          "y": 306,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer",
+        "artikelnummer": "NOVO007-0110",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 2156,
+          "y": 306,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer",
+        "artikelnummer": "NOVO007-0110",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 2631,
+          "y": 306,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer",
+        "artikelnummer": "NOVO007-0110",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 2927,
+          "y": 306,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer",
+        "artikelnummer": "NOVO007-0110",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 3107,
+          "y": 306,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer",
+        "artikelnummer": "NOVO007-0110",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 3582,
+          "y": 306,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer",
+        "artikelnummer": "NOVO007-0110",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 4058,
+          "y": 306,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer",
+        "artikelnummer": "NOVO007-0110",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 4238,
+          "y": 306,
+          "z": 40
+        }
+      },
+      {
+        "name": "Barfußdiele SIGNUM Muskat",
+        "artikelnummer": "PS001-300-600FE",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 2156,
+          "y": 380,
+          "z": 80
+        },
+        "laenge": 4312,
+        "umgedreht": false,
+        "istDiele": true,
+        "dielenReihe": 2,
+        "koordsOrg": [
+          {
+            "x": 0,
+            "y": 308
+          },
+          {
+            "x": 0,
+            "y": 452
+          },
+          {
+            "x": 4312,
+            "y": 452
+          },
+          {
+            "x": 4312,
+            "y": 308
+          }
+        ],
+        "koords": [
+          {
+            "x": 308,
+            "y": 4312
+          },
+          {
+            "x": 452,
+            "y": 4312
+          },
+          {
+            "x": 452,
+            "y": 0
+          },
+          {
+            "x": 308,
+            "y": 0
+          }
+        ],
+        "laengsGeschnitten": false
+      },
+      {
+        "name": "Rastklammer + Schrauben",
+        "artikelnummer": "NOVO007-0110BS",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 74,
+          "y": 454,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer + Schrauben",
+        "artikelnummer": "NOVO007-0110BS",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 254,
+          "y": 454,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer + Schrauben",
+        "artikelnummer": "NOVO007-0110BS",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 729,
+          "y": 454,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer + Schrauben",
+        "artikelnummer": "NOVO007-0110BS",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 1205,
+          "y": 454,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer + Schrauben",
+        "artikelnummer": "NOVO007-0110BS",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 1680,
+          "y": 454,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer + Schrauben",
+        "artikelnummer": "NOVO007-0110BS",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 2156,
+          "y": 454,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer + Schrauben",
+        "artikelnummer": "NOVO007-0110BS",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 2631,
+          "y": 454,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer + Schrauben",
+        "artikelnummer": "NOVO007-0110BS",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 2927,
+          "y": 454,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer + Schrauben",
+        "artikelnummer": "NOVO007-0110BS",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 3107,
+          "y": 454,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer + Schrauben",
+        "artikelnummer": "NOVO007-0110BS",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 3582,
+          "y": 454,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer + Schrauben",
+        "artikelnummer": "NOVO007-0110BS",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 4058,
+          "y": 454,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer + Schrauben",
+        "artikelnummer": "NOVO007-0110BS",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 4238,
+          "y": 454,
+          "z": 40
+        }
+      },
+      {
+        "name": "Barfußdiele SIGNUM Muskat",
+        "artikelnummer": "PS001-300-600FE",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 2156,
+          "y": 528,
+          "z": 80
+        },
+        "laenge": 4312,
+        "umgedreht": false,
+        "istDiele": true,
+        "dielenReihe": 3,
+        "koordsOrg": [
+          {
+            "x": 0,
+            "y": 456
+          },
+          {
+            "x": 0,
+            "y": 600
+          },
+          {
+            "x": 4312,
+            "y": 600
+          },
+          {
+            "x": 4312,
+            "y": 456
+          }
+        ],
+        "koords": [
+          {
+            "x": 456,
+            "y": 4312
+          },
+          {
+            "x": 600,
+            "y": 4312
+          },
+          {
+            "x": 600,
+            "y": 0
+          },
+          {
+            "x": 456,
+            "y": 0
+          }
+        ],
+        "laengsGeschnitten": false
+      },
+      {
+        "name": "Rastklammer-Rand",
+        "artikelnummer": "NOVO007-0120",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 74,
+          "y": 600,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer-Rand",
+        "artikelnummer": "NOVO007-0120",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 254,
+          "y": 600,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer-Rand",
+        "artikelnummer": "NOVO007-0120",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 729,
+          "y": 600,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer-Rand",
+        "artikelnummer": "NOVO007-0120",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 1205,
+          "y": 600,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer-Rand",
+        "artikelnummer": "NOVO007-0120",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 1680,
+          "y": 600,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer-Rand",
+        "artikelnummer": "NOVO007-0120",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 2156,
+          "y": 600,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer-Rand",
+        "artikelnummer": "NOVO007-0120",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 2631,
+          "y": 600,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer-Rand",
+        "artikelnummer": "NOVO007-0120",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 2927,
+          "y": 600,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer-Rand",
+        "artikelnummer": "NOVO007-0120",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 3107,
+          "y": 600,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer-Rand",
+        "artikelnummer": "NOVO007-0120",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 3582,
+          "y": 600,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer-Rand",
+        "artikelnummer": "NOVO007-0120",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 4058,
+          "y": 600,
+          "z": 40
+        }
+      },
+      {
+        "name": "Rastklammer-Rand",
+        "artikelnummer": "NOVO007-0120",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 4238,
+          "y": 600,
+          "z": 40
+        }
+      },
+      {
+        "name": "Konstruktionsholz Rhombus Varia Braun",
+        "artikelnummer": "MWRP021081VB420",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 1506.5,
+          "y": -10.25,
+          "z": 20
+        },
+        "laenge": 3013,
+        "breite": 20.5,
+        "istGkbrett": true,
+        "koordsOrg": [
+          {
+            "x": 0,
+            "y": -20.5
+          },
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 3013,
+            "y": 0
+          },
+          {
+            "x": 3013,
+            "y": -20.5
+          }
+        ],
+        "koords": [
+          {
+            "x": -20.5,
+            "y": 4312
+          },
+          {
+            "x": 0,
+            "y": 4312
+          },
+          {
+            "x": 0,
+            "y": 1299
+          },
+          {
+            "x": -20.5,
+            "y": 1299
+          }
+        ]
+      },
+      {
+        "name": "Schraube metrisch 10 Stück M8x40",
+        "artikelnummer": "MWBFRP000014ED",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 74,
+          "y": -20.5,
+          "z": 61
+        }
+      },
+      {
+        "name": "Schraube metrisch 10 Stück M8x40",
+        "artikelnummer": "MWBFRP000014ED",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 254,
+          "y": -20.5,
+          "z": 61
+        }
+      },
+      {
+        "name": "Schraube metrisch 10 Stück M8x40",
+        "artikelnummer": "MWBFRP000014ED",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 729,
+          "y": -20.5,
+          "z": 61
+        }
+      },
+      {
+        "name": "Schraube metrisch 10 Stück M8x40",
+        "artikelnummer": "MWBFRP000014ED",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 1205,
+          "y": -20.5,
+          "z": 61
+        }
+      },
+      {
+        "name": "Schraube metrisch 10 Stück M8x40",
+        "artikelnummer": "MWBFRP000014ED",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 1680,
+          "y": -20.5,
+          "z": 61
+        }
+      },
+      {
+        "name": "Schraube metrisch 10 Stück M8x40",
+        "artikelnummer": "MWBFRP000014ED",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 2156,
+          "y": -20.5,
+          "z": 61
+        }
+      },
+      {
+        "name": "Schraube metrisch 10 Stück M8x40",
+        "artikelnummer": "MWBFRP000014ED",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 2631,
+          "y": -20.5,
+          "z": 61
+        }
+      },
+      {
+        "name": "Schraube metrisch 10 Stück M8x40",
+        "artikelnummer": "MWBFRP000014ED",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 2927,
+          "y": -20.5,
+          "z": 61
+        }
+      },
+      {
+        "name": "Konstruktionsholz Rhombus Varia Braun",
+        "artikelnummer": "MWRP021081VB420",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 3681.75,
+          "y": -10.25,
+          "z": 20
+        },
+        "laenge": 1321.5,
+        "breite": 20.5,
+        "istGkbrett": true,
+        "koordsOrg": [
+          {
+            "x": 3021,
+            "y": -20.5
+          },
+          {
+            "x": 3021,
+            "y": 0
+          },
+          {
+            "x": 4342.5,
+            "y": 0
+          },
+          {
+            "x": 4342.5,
+            "y": -20.5
+          }
+        ],
+        "koords": [
+          {
+            "x": -20.5,
+            "y": 1291
+          },
+          {
+            "x": 0,
+            "y": 1291
+          },
+          {
+            "x": 0,
+            "y": -30.5
+          },
+          {
+            "x": -20.5,
+            "y": -30.5
+          }
+        ]
+      },
+      {
+        "name": "Schraube metrisch 10 Stück M8x40",
+        "artikelnummer": "MWBFRP000014ED",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 3107,
+          "y": -20.5,
+          "z": 61
+        }
+      },
+      {
+        "name": "Schraube metrisch 10 Stück M8x40",
+        "artikelnummer": "MWBFRP000014ED",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 3582,
+          "y": -20.5,
+          "z": 61
+        }
+      },
+      {
+        "name": "Schraube metrisch 10 Stück M8x40",
+        "artikelnummer": "MWBFRP000014ED",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 4058,
+          "y": -20.5,
+          "z": 61
+        }
+      },
+      {
+        "name": "Schraube metrisch 10 Stück M8x40",
+        "artikelnummer": "MWBFRP000014ED",
+        "drehung": 180,
+        "mittelpunkt": {
+          "x": 4238,
+          "y": -20.5,
+          "z": 61
+        }
+      },
+      {
+        "name": "Konstruktionsholz Rhombus Varia Braun",
+        "artikelnummer": "MWRP021081VB420",
+        "drehung": 90,
+        "mittelpunkt": {
+          "x": 4332.25,
+          "y": 306,
+          "z": 20
+        },
+        "laenge": 588,
+        "breite": 20.5,
+        "istGkbrett": true,
+        "koordsOrg": [
+          {
+            "x": 4322,
+            "y": 12
+          },
+          {
+            "x": 4322,
+            "y": 600
+          },
+          {
+            "x": 4342.5,
+            "y": 600
+          },
+          {
+            "x": 4342.5,
+            "y": 12
+          }
+        ],
+        "koords": [
+          {
+            "x": 12,
+            "y": -10
+          },
+          {
+            "x": 600,
+            "y": -10
+          },
+          {
+            "x": 600,
+            "y": -30.5
+          },
+          {
+            "x": 12,
+            "y": -30.5
+          }
+        ]
+      },
+      {
+        "name": "Befestigungsschraube M8 x 80 (für Glattkantbrett)",
+        "artikelnummer": "NOVO017-22",
+        "drehung": 90,
+        "mittelpunkt": {
+          "x": 4342.5,
+          "y": 40,
+          "z": 61
+        }
+      },
+      {
+        "name": "Befestigungsschraube M8 x 80 (für Glattkantbrett)",
+        "artikelnummer": "NOVO017-22",
+        "drehung": 90,
+        "mittelpunkt": {
+          "x": 4342.5,
+          "y": 572,
+          "z": 61
+        }
+      },
+      {
+        "name": "Konstruktionsholz Rhombus Varia Braun",
+        "artikelnummer": "MWRP021081VB420",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 1506.5,
+          "y": 622.25,
+          "z": 20
+        },
+        "laenge": 3013,
+        "breite": 20.5,
+        "istGkbrett": true,
+        "koordsOrg": [
+          {
+            "x": 0,
+            "y": 612
+          },
+          {
+            "x": 0,
+            "y": 632.5
+          },
+          {
+            "x": 3013,
+            "y": 632.5
+          },
+          {
+            "x": 3013,
+            "y": 612
+          }
+        ],
+        "koords": [
+          {
+            "x": 612,
+            "y": 4312
+          },
+          {
+            "x": 632.5,
+            "y": 4312
+          },
+          {
+            "x": 632.5,
+            "y": 1299
+          },
+          {
+            "x": 612,
+            "y": 1299
+          }
+        ]
+      },
+      {
+        "name": "Schraube metrisch 10 Stück M8x40",
+        "artikelnummer": "MWBFRP000014ED",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 74,
+          "y": 632.5,
+          "z": 61
+        }
+      },
+      {
+        "name": "Schraube metrisch 10 Stück M8x40",
+        "artikelnummer": "MWBFRP000014ED",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 254,
+          "y": 632.5,
+          "z": 61
+        }
+      },
+      {
+        "name": "Schraube metrisch 10 Stück M8x40",
+        "artikelnummer": "MWBFRP000014ED",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 729,
+          "y": 632.5,
+          "z": 61
+        }
+      },
+      {
+        "name": "Schraube metrisch 10 Stück M8x40",
+        "artikelnummer": "MWBFRP000014ED",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 1205,
+          "y": 632.5,
+          "z": 61
+        }
+      },
+      {
+        "name": "Schraube metrisch 10 Stück M8x40",
+        "artikelnummer": "MWBFRP000014ED",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 1680,
+          "y": 632.5,
+          "z": 61
+        }
+      },
+      {
+        "name": "Schraube metrisch 10 Stück M8x40",
+        "artikelnummer": "MWBFRP000014ED",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 2156,
+          "y": 632.5,
+          "z": 61
+        }
+      },
+      {
+        "name": "Schraube metrisch 10 Stück M8x40",
+        "artikelnummer": "MWBFRP000014ED",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 2631,
+          "y": 632.5,
+          "z": 61
+        }
+      },
+      {
+        "name": "Schraube metrisch 10 Stück M8x40",
+        "artikelnummer": "MWBFRP000014ED",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 2927,
+          "y": 632.5,
+          "z": 61
+        }
+      },
+      {
+        "name": "Konstruktionsholz Rhombus Varia Braun",
+        "artikelnummer": "MWRP021081VB420",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 3681.75,
+          "y": 622.25,
+          "z": 20
+        },
+        "laenge": 1321.5,
+        "breite": 20.5,
+        "istGkbrett": true,
+        "koordsOrg": [
+          {
+            "x": 3021,
+            "y": 612
+          },
+          {
+            "x": 3021,
+            "y": 632.5
+          },
+          {
+            "x": 4342.5,
+            "y": 632.5
+          },
+          {
+            "x": 4342.5,
+            "y": 612
+          }
+        ],
+        "koords": [
+          {
+            "x": 612,
+            "y": 1291
+          },
+          {
+            "x": 632.5,
+            "y": 1291
+          },
+          {
+            "x": 632.5,
+            "y": -30.5
+          },
+          {
+            "x": 612,
+            "y": -30.5
+          }
+        ]
+      },
+      {
+        "name": "Schraube metrisch 10 Stück M8x40",
+        "artikelnummer": "MWBFRP000014ED",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 3107,
+          "y": 632.5,
+          "z": 61
+        }
+      },
+      {
+        "name": "Schraube metrisch 10 Stück M8x40",
+        "artikelnummer": "MWBFRP000014ED",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 3582,
+          "y": 632.5,
+          "z": 61
+        }
+      },
+      {
+        "name": "Schraube metrisch 10 Stück M8x40",
+        "artikelnummer": "MWBFRP000014ED",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 4058,
+          "y": 632.5,
+          "z": 61
+        }
+      },
+      {
+        "name": "Schraube metrisch 10 Stück M8x40",
+        "artikelnummer": "MWBFRP000014ED",
+        "drehung": 0,
+        "mittelpunkt": {
+          "x": 4238,
+          "y": 632.5,
+          "z": 61
+        }
+      }
+    ]
+  }
